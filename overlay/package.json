@@ -1,0 +1,35 @@
+{
+    "name": "fxconsole-overlay",
+    "version": "1.0.0",
+    "description": "FX Console Overlay for Premiere Pro — Global hotkey launcher",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder --win",
+        "dev": "electron . --dev"
+    },
+    "author": "FX Console",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^33.0.0",
+        "electron-builder": "^25.0.0"
+    },
+    "build": {
+        "appId": "com.fxconsole.overlay",
+        "productName": "FX Console Overlay",
+        "win": {
+            "target": "nsis",
+            "icon": "assets/icon.ico"
+        },
+        "nsis": {
+            "oneClick": true,
+            "perMachine": false
+        },
+        "files": [
+            "main.js",
+            "preload.js",
+            "renderer/**/*",
+            "assets/**/*"
+        ]
+    }
+}
