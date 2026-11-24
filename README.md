@@ -203,8 +203,15 @@ MIT License — Free for personal and commercial use.
 
 ## 🙏 Credits
 
-Inspired by [Video Copilot's FX Console](https://www.videocopilot.net/blog/2019/03/fxconsole-updated-for-2019/) for After Effects.
+## 🙏 Credits
 
+**Created & Developed by:** [Anmol Panwar](https://github.com/Anmolpanwar69)
+
+**Inspired by:** [Video Copilot's FX Console](https://www.videocopilot.net/blog/2016/10/new-workflow-plug-in-fx-console-is-now-available/) for Adobe After Effects.
+
+AJConsole is an independently developed project designed to bring a fast, intuitive, and streamlined effects workflow to Adobe Premiere Pro.
+
+This project is not officially affiliated with Adobe or Video Copilot.
 ---
 
 <p align="center">
