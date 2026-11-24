@@ -203,8 +203,6 @@ MIT License — Free for personal and commercial use.
 
 ## 🙏 Credits
 
-## 🙏 Credits
-
 **Created & Developed by:** [Anmol Panwar](https://github.com/Anmolpanwar69)
 
 **Inspired by:** [Video Copilot's FX Console](https://www.videocopilot.net/blog/2016/10/new-workflow-plug-in-fx-console-is-now-available/) for Adobe After Effects.
